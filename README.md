@@ -24,7 +24,7 @@ if (app.Environment.IsDevelopment())
 
 This is all we need to enable Scalar. Of course, there are many additional configuration options available, such as versioning, contact information, API titles, and more (similar to what we can configure with Swagger).
 
-## Scale Look and Feel
+## Scalar Look and Feel
 
 Scalar provides a modern and intuitive UI and great DX:
 
